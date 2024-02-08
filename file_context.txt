@@ -1,4 +1,4 @@
-response = chatgpt.geberate(prompt)
+response = chatgpt.generate(prompt)
 response = chatgpt.truncate(response, >399)
 
 
